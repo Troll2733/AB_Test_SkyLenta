@@ -22,3 +22,6 @@ Python (pandas, numpy, matplotlib, seaborn, scipy), Jupyter Notebook, Excel
 ## Файлы
 - `AB_Test_SkyLenta.ipynb` — полный анализ с кодом и визуализациями
 - `AB_test_results.xlsx` — калькулятор с финансовым эффектом
+## Видеопрезентация проекта
+
+Ссылка на видео: [Посмотреть презентацию](https://drive.google.com/file/d/1kRTcGRcZ_jsqMLRYDruZIG70is0aBXXg/view?usp=sharing)
